@@ -1,16 +1,27 @@
-# news_app_flutter
 
-A new Flutter project.
+# Project Title
 
-## Getting Started
+A brief description of what this project does and who it's for
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Screen with news list
+- Screen to open news with link to web
+- Cross platform
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Installation
+
+git clone
+
+create .env file like:
+
+api_key=your_api_key_from_news_api
+    
+## Screenshots
+
+
+![App Screenshot](./screenshots/photo_2024-03-11_23-19-07.jpg)
+![App Screenshot](./screenshots/photo_2024-03-11_23-20-25.jpg)
+
