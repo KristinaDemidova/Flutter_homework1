@@ -1,7 +1,7 @@
 
-# Project Title
+# Flutter news app
 
-A brief description of what this project does and who it's for
+Second homework of Flutter MIPT course
 
 
 ## Features
@@ -9,19 +9,21 @@ A brief description of what this project does and who it's for
 - Screen with news list
 - Screen to open news with link to web
 - Cross platform
-
-
+New features:
+- Screen with your favourite news
+- Clean architecture of code
 ## Installation
 
 git clone
 
-create .env file like:
+change .env file with your api_key:
 
 api_key=your_api_key_from_news_api
     
 ## Screenshots
 
 
-![App Screenshot](./screenshots/photo_2024-03-11_23-19-07.jpg)
-![App Screenshot](./screenshots/photo_2024-03-11_23-20-25.jpg)
+![App Screenshot](./screenshots/first_screen.jpg)
+![App Screenshot](./screenshots/second_screen.jpg)
+![App Screenshot](./screenshots/third_screen.jpg)
 
